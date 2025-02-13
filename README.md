@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Adib Muhammad Maros! 👋
 
 I'm a passionate **Web Developer** with expertise in **JavaScript**, **React.js**, **Next.js**, and **Laravel**. I love building modern, scalable, and user-friendly web applications. Always learning and exploring new technologies to improve my skills!
 
@@ -6,9 +6,9 @@ I'm a passionate **Web Developer** with expertise in **JavaScript**, **React.js*
 
 Here are some of the technologies and tools I work with:
 
-- **Frontend**: JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Frontend**: JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS, shadcn UI
 - **Backend**: Laravel, Node.js, Express.js
-- **Database**: MySQL, MongoDB, Firebase
+- **Database**: MySQL, MongoDB, Firebase, Supabase, PostgreeSQL
 - **Tools**: Git, GitHub, VS Code, Docker, Postman
 - **Learning**: TypeScript, GraphQL, AWS
 
@@ -22,7 +22,6 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out to me for collaborations, discussions, or just to say hi! 😄
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](www.linkedin.com/in/adibmuhammadmaros)
+- [Portfolio](https://adib-portfolio2.vercel.app)
+- [Email](mailto:adibmaros12@gmail.com)
