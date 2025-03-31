@@ -23,9 +23,9 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### 📊 GitHub Stats  
-[![Adib's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibmuhammadmaros&show_icons=true&theme=radical)](https://github.com/adibmuhammadmaros)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibmuhammadmaros&layout=compact&theme=radical)](https://github.com/adibmuhammadmaros)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adibmuhammadmaros&theme=radical)  
+[![Adib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adibmaros&show_icons=true&theme=radical)](https://github.com/Adibmaros)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adibmaros&layout=compact&theme=radical)](https://github.com/Adibmaros)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adibmaros&theme=radical)  
 
 ---
 
