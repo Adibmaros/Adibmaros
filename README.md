@@ -1,9 +1,9 @@
 # Hi there, I'm Adib Muhammad Maros! 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=adibmuhammadmaros&label=Profile%20Views&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/adibmuhammadmaros?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/adibmuhammadmaros?style=social)  
-![GitHub license](https://img.shields.io/github/license/adibmuhammadmaros/your-repo)  
+![Profile Views](https://komarev.com/ghpvc/?username=Adibmaros&label=Profile%20Views&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/Adibmaros?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Adibmaros?style=social)  
+![GitHub license](https://img.shields.io/github/license/Adibmaros/your-repo)  
 
 I'm a passionate **Web Developer** with expertise in **JavaScript**, **React.js**, **Next.js**, and **Laravel**.  
 I love building modern, scalable, and user-friendly web applications.  
